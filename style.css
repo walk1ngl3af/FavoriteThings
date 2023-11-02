@@ -46,3 +46,12 @@ nav li:hover .dropdown-content {
 .dropdown-content ul {
     flex-direction: column;
 }
+.sofia {
+    font-family: "Sofia", Sofia, sans-serif;
+}
+.acme {
+    font-family: "Acme", sans-serif;
+}
+.lucida {
+    font-family: "Lucida Console", Lucida, monospace;
+}
